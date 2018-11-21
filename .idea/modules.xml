@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/diarytool.iml" filepath="$PROJECT_DIR$/diarytool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diarytool.client/diarytool.client.iml" filepath="$PROJECT_DIR$/diarytool.client/diarytool.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diarytool.common/diarytool.common.iml" filepath="$PROJECT_DIR$/diarytool.common/diarytool.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diarytool.dao/diarytool.dao.iml" filepath="$PROJECT_DIR$/diarytool.dao/diarytool.dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diarytool.impl/diarytool.impl.iml" filepath="$PROJECT_DIR$/diarytool.impl/diarytool.impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diarytool.service/diarytool.service.iml" filepath="$PROJECT_DIR$/diarytool.service/diarytool.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diarytool.war/diarytool.war.iml" filepath="$PROJECT_DIR$/diarytool.war/diarytool.war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diarytool.web/diarytool.web.iml" filepath="$PROJECT_DIR$/diarytool.web/diarytool.web.iml" />
+    </modules>
+  </component>
+</project>

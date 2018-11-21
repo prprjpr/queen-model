@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="diarytool.client" />
+        <module name="diarytool.common" />
+        <module name="diarytool.dao" />
+        <module name="diarytool.impl" />
+        <module name="diarytool.service" />
+        <module name="diarytool.war" />
+        <module name="diarytool.web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="diarytool" target="1.8" />
+      <module name="diarytool (1) (com.nokia)" target="1.8" />
+      <module name="diarytool.client" target="1.8" />
+      <module name="diarytool.common" target="1.8" />
+      <module name="diarytool.dao" target="1.8" />
+      <module name="diarytool.impl" target="1.8" />
+      <module name="diarytool.service" target="1.8" />
+      <module name="diarytool.war" target="1.8" />
+      <module name="diarytool.web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
